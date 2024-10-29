@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!</h2>
+<h2 align="left"><a href="https://www.tanmoy.xyz/posts/hi/" target="_blank" rel="noopener noreferrer">Hi 👋!</a></h2>
 
 ###
 
